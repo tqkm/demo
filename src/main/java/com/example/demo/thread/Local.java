@@ -18,7 +18,7 @@ public class Local {
             });
         System.out.println(threadLocal.get());
         pool.shutdown();
-        var ss = 123;
+        var ss = 123321;
     }
 
 }
