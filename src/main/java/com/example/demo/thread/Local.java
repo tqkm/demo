@@ -19,7 +19,6 @@ public class Local {
         System.out.println(threadLocal.get());
         pool.shutdown();
         var ss = 1234;
-        System.out.println(ss);
     }
 
 }
