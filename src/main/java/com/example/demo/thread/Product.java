@@ -7,7 +7,7 @@ import java.util.Objects;
 @Data
 public class Product implements Comparable<Product>{
 
-    private Integer issSt;//试试
+    private Integer issSt;
     private String rate;
 
     @Override
